@@ -1,10 +1,16 @@
 import './App.css'
+import BasicTable from './tables/BasicTable'
+import FiltertingTable from './tables/FiltertingTable'
+import SortingTable from './tables/SortingTable'
 
 function App() {
 
   return (
     <>
-      <div>Invntory Management</div>
+    {/* <BasicTable /> */}
+    {/* <SortingTable /> */}
+    {/* <FiltertingTable /> */}
+      {/* <div>Invntory Management</div> */}
     </>
   )
 }
